@@ -11,7 +11,10 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "igit@github.com:spinlock99/ember-cli-mocha-coffeescript.git"
+  },
   "engines": {
     "node": ">= 0.10.0"
   },
